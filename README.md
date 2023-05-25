@@ -21,3 +21,4 @@ Case Study: Prisma ORM and Testing with Vercel Postgres Database
 
 - [Vercel Postgres Documentation](https://vercel.com/docs/storage/vercel-postgres)
 - [Prisma Documentation](https://www.prisma.io/docs)
+- [NextJS with Prisma Example](https://github.com/prisma/prisma-examples/tree/latest/javascript/rest-nextjs)
